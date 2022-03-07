@@ -1,10 +1,8 @@
 ### Oii! Eu sou a Marina Villaça! 👋
 
-<div align="center">
-  <a href="https://github.com/marinavillaca">
-  <img src="https://github-readme-stats.vercel.app/api?username=marinavillaca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinavillaca&layout=compact&langs_count=7&theme=radical"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinavillaca&show_icons=true&theme=radical)](https://github.com/marinavillaca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinavillaca&show_icons=true&theme=radical)](https://github.com/marinavillaca/github-readme-stats)  
+
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
