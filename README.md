@@ -1,4 +1,20 @@
-### Oii! Eu sou a Marina Villaça! 👋
+### Hey! I'm Marina Villaça! 👋
+
+🎓 I'm a student of Information Systems at the Universidade Federal de Minas Gerais (UFMG). 👩‍💻.
+
+🌱 I’m currently learning JavaScript and Node and on track to improve my skills on HTML, CSS and Web Development.
+
+✍️ My hobbies: dorama, music, walk the dog, cooking and going to the gym 💪.
+
+🥅 2022 Goals: start contributing to the open source community and create content!
+
+<div>
+
+  '
+  
+</div>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinavillaca&show_icons=true&theme=radical)](https://github.com/marinavillaca/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinavillaca&show_icons=true&theme=radical)](https://github.com/marinavillaca/github-readme-stats)  
