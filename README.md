@@ -1,6 +1,6 @@
 ### Hey! I'm Marina Villaça! 👋
 
-🎓 I'm a student of Information Systems at the Universidade Federal de Minas Gerais (UFMG). 👩‍💻.
+🎓 I'm a student of Information Systems at Universidade Federal de Minas Gerais (UFMG). 👩‍💻.
 
 🌱 I’m currently learning JavaScript and Node and on track to improve my skills on HTML, CSS and Web Development.
 
