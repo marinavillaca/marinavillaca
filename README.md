@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning JavaScript and Node and on track to improve my skills on HTML, CSS and Web Development.
 
-✍️ My hobbies: dorama, music, walk the dog, cooking and going to the gym 💪.
+✍️ My hobbies: doramas, music, walk the dog, cooking and going to the gym 💪.
 
 🥅 2022 Goals: start contributing to the open source community and create content!
 
@@ -25,7 +25,6 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center"  height="28" width="36"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="right"  height="150" style="border-radius:50px;" src="https://i.ibb.co/fdYVqXW/download20220300151842.png">
 
