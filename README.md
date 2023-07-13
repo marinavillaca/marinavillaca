@@ -2,7 +2,7 @@
 
 🎓 I'm a student of Information Systems at Universidade Federal de Minas Gerais (UFMG). 👩‍💻.
 
-🌱 I’m currently learning JavaScript and Node and on track to improve my skills on HTML, CSS and Web Development.
+🌱 I’m currently learning C, Java and JavaScript.
 
 ✍️ My hobbies: doramas, music, walk the dog, cooking and going to the gym 💪.
 
