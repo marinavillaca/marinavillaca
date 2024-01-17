@@ -6,7 +6,7 @@
 
 ✍️ My hobbies: doramas, music, walk the dog, cooking and going to the gym 💪.
 
-🥅 2023 Goals: start contributing to the open source community and create content!
+🥅 2024 Goals: start contributing to the open source community and create content!
 
 <div>
 
