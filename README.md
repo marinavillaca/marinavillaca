@@ -2,8 +2,6 @@
 
 🎓 I'm a student of Information Systems at Universidade Federal de Minas Gerais (UFMG). 👩‍💻.
 
-🌱 I’m currently learning C, Java and JavaScript.
-
 ✍️ My hobbies: doramas, music, walk the dog, cooking and going to the gym 💪.
 
 🥅 2024 Goals: start contributing to the open source community and create content!
