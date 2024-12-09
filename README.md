@@ -1,15 +1,5 @@
 ### Hey! I'm Marina Villaça! 👋
 
-🎓 I'm a student of Information Systems at Universidade Federal de Minas Gerais (UFMG). 👩‍💻.
-
-✍️ My hobbies: doramas, music, walk the dog, cooking and going to the gym 💪.
-
-🥅 2024 Goals: start contributing to the open source community and create content!
-
-<div>
-  '
-</div>
-
 <p align="center">
 <a href="https://github.com/marinavillaca">
   
