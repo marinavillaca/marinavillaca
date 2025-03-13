@@ -2,6 +2,7 @@
 
 Como estudante de Sistemas de Informação com foco em back-end, estou constantemente aprimorando minhas habilidades em programação orientada a objetos, estrutura de dados e algoritmos. Tenho me aprofundado no uso do Java e do Spring Framework, ferramentas que considero essenciais para criar soluções escaláveis e de alto desempenho. Ao longo da minha jornada acadêmica, também venho adquirindo experiência em bancos de dados, APIs RESTful, e práticas ágeis de desenvolvimento, além de me familiarizar com tecnologias como Docker, Kubernetes e arquitetura em nuvem. Meu objetivo é me tornar um profissional capaz de construir sistemas robustos e eficientes, sempre buscando otimizar processos e garantir a integração de soluções de forma ágil e segura.
 
+Também atuo como técnica em desenvolvimento mobile, usando principalmente Java para desenvolvimento Android.
 
 <p align="center">
 <a href="https://github.com/marinavillaca">
